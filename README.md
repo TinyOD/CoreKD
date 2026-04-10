@@ -22,8 +22,8 @@ The complete source code will be fully open-sourced immediately upon the paper's
 ### Install:
 This project is implemented based on the [MMDetection](https://github.com/open-mmlab/mmdetection) toolkit. Once your environment has met the above requirements, follow the steps below to install.
 ```c
-git clone 
-cd corekd
+git clone https://github.com/TinyOD/CoreKD
+cd CoreKD
 pip install -r requirements/build.txt
 python setup.py develop
 ```
